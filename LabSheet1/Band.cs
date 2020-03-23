@@ -15,6 +15,7 @@ namespace LabSheet1
         public Album[] Albums { get; set; }
         public int MyProperty { get; set; }
 
+
         //ctors
 
         //methods
